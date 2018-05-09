@@ -1,0 +1,7 @@
+[requires]
+zlib/1.2.11@conan/stable
+boost/1.66.0@conan/stable
+Poco/1.7.9@pocoproject/stable
+
+[generators]
+cmake
